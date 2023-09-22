@@ -15,3 +15,7 @@ pandas
 more-itertools # itertools
 ndslib
 # pickle # included in python
+pyvista
+pyvistaqt
+ipyevents
+xvfbwrapper
